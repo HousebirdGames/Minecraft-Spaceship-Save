@@ -1,0 +1,13 @@
+{
+    "parent": "block/flexi-cube",
+    "textures": {
+        "particle": "blocks/glazed_terracotta_lime",
+
+        "down": "blocks/new_lime/new_lime_down",
+        "up": "blocks/new_lime/new_lime_up",
+        "north": "blocks/new_lime/new_lime_north",
+        "east": "blocks/new_lime/new_lime_east",
+        "south": "blocks/new_lime/new_lime_south",
+        "west": "blocks/new_lime/new_lime_west"
+    }
+}

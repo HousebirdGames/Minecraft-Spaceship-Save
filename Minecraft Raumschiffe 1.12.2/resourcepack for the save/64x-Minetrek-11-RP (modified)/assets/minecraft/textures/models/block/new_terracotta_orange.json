@@ -1,0 +1,13 @@
+{
+    "parent": "block/flexi-cube",
+    "textures": {
+        "particle": "blocks/glazed_terracotta_orange",
+
+        "down": "blocks/new_orange/new_orange_down",
+        "up": "blocks/new_orange/new_orange_up",
+        "north": "blocks/new_orange/new_orange_north",
+        "east": "blocks/new_orange/new_orange_east",
+        "south": "blocks/new_orange/new_orange_south",
+        "west": "blocks/new_orange/new_orange_west"
+    }
+}

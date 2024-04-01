@@ -1,0 +1,13 @@
+{
+    "parent": "block/flexi-cube",
+    "textures": {
+        "particle": "blocks/glazed_terracotta_magenta",
+
+        "down": "blocks/new_magenta/new_magenta_down",
+        "up": "blocks/new_magenta/new_magenta_up",
+        "north": "blocks/new_magenta/new_magenta_north",
+        "east": "blocks/new_magenta/new_magenta_east",
+        "south": "blocks/new_magenta/new_magenta_south",
+        "west": "blocks/new_magenta/new_magenta_west"
+    }
+}

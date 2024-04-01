@@ -1,0 +1,13 @@
+{
+    "parent": "block/flexi-cube",
+    "textures": {
+        "particle": "blocks/glazed_terracotta_black",
+
+        "down": "blocks/new_black/new_black_down",
+        "up": "blocks/new_black/new_black_up",
+        "north": "blocks/new_black/new_black_north",
+        "east": "blocks/new_black/new_black_east",
+        "south": "blocks/new_black/new_black_south",
+        "west": "blocks/new_black/new_black_west"
+    }
+}
