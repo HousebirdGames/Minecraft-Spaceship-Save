@@ -1,3 +1,4 @@
+[Minecraft Ocean Class Spaceship](Minecraft_Ocean_Class_Spaceship.png)
 # Minecraft Spaceships
 
 Download and extract the `Save and Resourcepack.zip` file to access both the save folder and the resource pack used to build the spaceships.
